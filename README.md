@@ -24,9 +24,9 @@
 
 <center>
 <table align="center">
-<tr>
+<!-- <tr>
    <!--<td><img height=350px width=380px src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamsaleh&theme=dracula" /></td>-->
-   <td> <img height=350px width=380px src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamsaleh&langs_count=8&layout=compact&theme=dracula"/></td>
+<!--    <td> <img height=350px width=380px src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamsaleh&langs_count=8&layout=compact&theme=dracula"/></td> -->
 
 <td><img alt="Github Contribution Stats" src="https://github-contribution-stats.vercel.app/api/?username=siamsaleh&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></td>
     </tr>   
