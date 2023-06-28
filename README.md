@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Mobile Application Development**
 
-- 📫 How to reach me **saleh.ahmed.siam@g.bracu.ac.bd**
+- 📫 How to reach me **siamsaleh.dev@gmail.com**
 
 - 📫 My LeetCode Profile **https://leetcode.com/SiamSaleh/**
 
