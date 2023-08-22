@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siamsaleh&label=Profile%20views&color=0e75b6&style=flat" alt="siamsaleh" /> </p>
 
-- 🔭 I’m currently working on **Mobile Application Development**
+- 🔭 I’m currently working on **Mobile Application Development** and **MERN Stack**
 
 - 📫 How to reach me **siamsaleh.dev@gmail.com**
 
