@@ -17,6 +17,8 @@
 
 <!-- - 📫 My LeetCode Profile **https://leetcode.com/SiamSaleh/**-->
 
+- 📫 My Linkedin Profile **https://www.linkedin.com/in/siamsaleh/**
+
 - 📫 My Stackoverflow Profile **https://stackoverflow.com/users/13028084/siamsaleh**
 
 <h3 align="left">Languages and Tools:</h3>
