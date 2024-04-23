@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **siamsaleh.dev@gmail.com**
 
-- 📫 My LeetCode Profile **https://leetcode.com/SiamSaleh/**
+<!-- - 📫 My LeetCode Profile **https://leetcode.com/SiamSaleh/**-->
 
 - 📫 My Stackoverflow Profile **https://stackoverflow.com/users/13028084/siamsaleh**
 
